@@ -1,0 +1,6 @@
+C:\Users\Murilo\source\repos\MegaSenaEstatisticas\MegaSenaEstatisticas\bin\Debug\MegaSenaEstatisticas.exe.config
+C:\Users\Murilo\source\repos\MegaSenaEstatisticas\MegaSenaEstatisticas\bin\Debug\MegaSenaEstatisticas.exe
+C:\Users\Murilo\source\repos\MegaSenaEstatisticas\MegaSenaEstatisticas\bin\Debug\MegaSenaEstatisticas.pdb
+C:\Users\Murilo\source\repos\MegaSenaEstatisticas\MegaSenaEstatisticas\obj\Debug\MegaSenaEstatisticas.csprojAssemblyReference.cache
+C:\Users\Murilo\source\repos\MegaSenaEstatisticas\MegaSenaEstatisticas\obj\Debug\MegaSenaEstatisticas.exe
+C:\Users\Murilo\source\repos\MegaSenaEstatisticas\MegaSenaEstatisticas\obj\Debug\MegaSenaEstatisticas.pdb
